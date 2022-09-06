@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body {
+    font-size: 110%;
+    text-align: center;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+h1 {
+    color:mediumpurple;
+    text-decoration: underline;
+}
+
+h2 {
+    color: plum;
+}
+
+.serifado {
+    font-family: 'Roboto Slab', serif;
+}
+
+.sem-serifa {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cursiva {
+    font-family: 'Lobster Two', cursive;
+}
+
+.display {
+    font-family: 'Indie Flower', cursive;
+}
+
+.monoespacada {
+    font-family: 'VT323', monospace;
+    font-size: 1.5em;
+}
